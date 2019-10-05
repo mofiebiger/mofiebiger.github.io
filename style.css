@@ -1,0 +1,119 @@
+.jumbotron {
+  background-color: #a165cf;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.btn {
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #a165cf;
+  border-color: grey;
+  height: 50px;
+  width: 200px;
+  font-family: "Helvetica Neue", Helvetica,Arial, sans-serif;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.col-sm-4 {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.col-md-3 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.table table-hover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 45px;
+  margin-bottom: 100px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #a165cf;
+   color: #333333;
+   text-align: center;
+   font-family: "Helvetica Neue", Helvetica,Arial, sans-serif;
+}
+
+.footer p {
+  padding-top: 10px;
+}
+
+#errorText {
+  font-family: "Helvetica Neue", Helvetica,Arial, sans-serif;
+  font-size: 21px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+}
+
+#voucherInput {
+  width: 200px;
+  height: 50px;
+}
+
+#voucherResults {
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+
+input, select, textarea {
+  height: 50px;
+  width: 275px;
+  font-family: "Helvetica Neue", Helvetica,Arial, sans-serif;
+  font-size: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#indexContainer p {
+  padding: 0;
+  margin: 0;
+}
+
+#userInput{
+  height: 50px;
+  width: 275px;
+}
+
+.importantVouchRes {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#DisVoucherResults {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  background-color: #71ff61;
+  width: 56%;
+  padding: 20px;
+}
